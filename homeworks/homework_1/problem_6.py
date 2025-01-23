@@ -17,5 +17,5 @@ if __name__ == "__main__":
 
     # Make calculation and report
     pi = 4*(len(list(filter(lambda x: x[0]*x[0] + x[1]*x[1] <=1, sample)))/len(sample))
-    print(f"Pi = {pi}")
+    print(f"\nPi is approximately {pi}\n\nUsed sample of size {N}\n")
 
