@@ -1,5 +1,5 @@
-# run: conda env create --file environment.yml
-name: behavioral-data-science
+# run: conda env create --file homework_env.yml
+name: homework_env
 dependencies:
   - python == 3.11
   - pip
