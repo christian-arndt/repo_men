@@ -38,4 +38,12 @@ by the noisy data and complicated systems implicit in studying cognition.
 
 Reno:
 
-When performing experiments, it is essential to mitigate as many confounding variables as possible. In the conext of psychology and human participants, they are never identical (unless we count genetics for identical twins), which leads to uncontrollable variance. In ordet to study a specific type of behavior exhibited by a human, we have to make sure that the only significant changes being studied should be the desired behavior. Through effective data science practices incorporating strong theory-building and strong models, this would be achieved. Through the development of experiments with the incorporation of these components, they can be reproduced allowing for the results to be strengthened. In doing so, they allow for more intellectual growth and stability in the field.
+When performing experiments, it is essential to mitigate as many confounding variables as
+possible. In the conext of psychology and human participants, they are never identical 
+(unless we count genetics for identical twins), which leads to uncontrollable variance. 
+In ordet to study a specific type of behavior exhibited by a human, we have to make sure
+that the only significant changes being studied should be the desired behavior. Through
+effective data science practices incorporating strong theory-building and strong models, 
+this would be achieved. Through the development of experiments with the incorporation of 
+these components, they can be reproduced allowing for the results to be strengthened. In 
+doing so, they allow for more intellectual growth and stability in the field.
