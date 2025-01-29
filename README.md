@@ -29,21 +29,21 @@ or what's going on in their life, or any number of other factors. The mind is to
 complicated to estimate with good models built on principle, and too noisy to 
 make poignant and useful insights based on data---without some extra tools in our belt.
 
-This is where data science fits in. Data science provides us with a wide-ranging 
+This is where data science comes in. Data science provides us with a wide-ranging 
 set of techniques we can use to extract meaningful results from the kind of dirty, noisy 
 data we get when we study cognitive agents. In other words, when we're thinking about 
 psychology and cognitive science, behavioral data science is the toolbox we use 
 to make interesting and insightful statements *despite* the difficulties presented 
-by the noisy data and complicated systems implicit in studying cognition.
+by the noisy data and complicated systems implicit in studying cognition. Through
+effective data science practices such as incorporating strong theory-building and strong 
+models, this would be achieved.
 
-Reno:
-
-When performing experiments, it is essential to mitigate as many confounding variables as
-possible. In the conext of psychology and human participants, they are never identical 
-(unless we count genetics for identical twins), which leads to uncontrollable variance. 
-In ordet to study a specific type of behavior exhibited by a human, we have to make sure
-that the only significant changes being studied should be the desired behavior. Through
-effective data science practices incorporating strong theory-building and strong models, 
-this would be achieved. Through the development of experiments with the incorporation of 
-these components, they can be reproduced allowing for the results to be strengthened. In 
-doing so, they allow for more intellectual growth and stability in the field.
+Data science can also provide insights to good experimental design. When performing 
+experiments, it is essential to mitigate as many confounding variables as
+possible. In the context of psychology, human participants are never identical 
+(unless we count genetics for identical twins), which leads to uncontrolled variance. 
+In order to study human behavior, it is essential to isolate these variables so that
+the only significant dependent variables are the desired behaviors. Through the 
+development of experiments with the incorporation of these components, they can be 
+reproduced allowing for the results to be strengthened. In doing so, they allow for
+more intellectual growth and stability in the field.
