@@ -4,11 +4,8 @@
 
 ### Why is behavioral data science important for psychology and cognitive science?
 
-Chris:
-
 The study of behavior is implicitly linked to psychology and cognitive science.
-Until someone invents a mind-reading machine (or successfully trains a neural 
-network on MRI or EEG results), behavior is the clearest window through which 
+Until someone invents a mind-reading machine, behavior is the clearest window through which 
 we can examine the inner workings of the mind. All that's left, then, is to 
 explain where data science fits into this puzzle.
 
@@ -26,24 +23,26 @@ When people are the subject of study, they bring their biases. Not only is every
 person unique, but even given the same person, an experiment might find different 
 behavioral results depending on how much sleep or food that person has had recently, 
 or what's going on in their life, or any number of other factors. The mind is too 
-complicated to estimate with good models built on principle, and too noisy to 
+complicated to model accurately from first principles, and too noisy to 
 make poignant and useful insights based on data---without some extra tools in our belt.
+This is where data science comes in. 
 
-This is where data science comes in. Data science provides us with a wide-ranging 
-set of techniques we can use to extract meaningful results from the kind of dirty, noisy 
-data we get when we study cognitive agents. In other words, when we're thinking about 
-psychology and cognitive science, behavioral data science is the toolbox we use 
-to make interesting and insightful statements *despite* the difficulties presented 
-by the noisy data and complicated systems implicit in studying cognition. Through
-effective data science practices such as incorporating strong theory-building and strong 
-models, this would be achieved.
-
-Data science can also provide insights to good experimental design. When performing 
+First, data science can also provide insights to good experimental design. When performing 
 experiments, it is essential to mitigate as many confounding variables as
 possible. In the context of psychology, human participants are never identical 
 (unless we count genetics for identical twins), which leads to uncontrolled variance. 
 In order to study human behavior, it is essential to isolate these variables so that
-the only significant dependent variables are the desired behaviors. Through the 
-development of experiments with the incorporation of these components, they can be 
-reproduced allowing for the results to be strengthened. In doing so, they allow for
-more intellectual growth and stability in the field.
+the only significant dependent variables are the desired behaviors. Understanding 
+data science teaches us the importance of clarity and organization in experimental design. 
+Experiments developed with the incorporation of these ideas provide more interpretable 
+results and can be reproduced allowing for the results to be strengthened. In doing so, they 
+allow for more intellectual growth and stability in the field.
+
+Experimental design, however, can only go so far. As mentioned above, even in the best 
+of experimental conditions, humans are a bit of a mess. Data science provides us with a wide-ranging 
+set of techniques we can use to extract meaningful results from the kind of dirty, noisy 
+data we get when we study cognitive agents. In other words, behavioral data science 
+is the toolbox we use to make interesting and insightful statements *despite* the 
+difficulties presented by the noisy data and complicated systems implicit in studying 
+cognition. 
+
