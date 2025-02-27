@@ -1,0 +1,95 @@
+Feature;Importance;Importance_std
+gender_man;0.1249;0.0057
+rel_4_0;0.1246;0.0065
+gender_woman;0.1158;0.0051
+rel_4_1;0.1048;0.0052
+ses;0.0789;0.0047
+sample_type_online panel;0.0618;0.0057
+compensation_raffle;0.0501;0.0049
+rel_3_0.5;0.0403;0.0042
+rel_3_1.0;0.0375;0.0029
+gdp;0.0369;0.0030
+gdp_scaled;0.0349;0.0040
+rel_6;0.0332;0.0039
+cnorm_2;0.0277;0.0039
+rel_3_0.0;0.0264;0.0029
+rel_2;0.0260;0.0038
+ethnicity_nan;0.0216;0.0020
+rel_9;0.0208;0.0047
+ethnicity_Caucasian/European;0.0197;0.0035
+sample_type_students;0.0180;0.0020
+cnorm_1;0.0178;0.0029
+country_Germany;0.0170;0.0027
+age;0.0156;0.0035
+rel_8;0.0139;0.0036
+education;0.0137;0.0044
+country_Israel;0.0134;0.0016
+rel_1;0.0126;0.0036
+sample_type_mixed;0.0118;0.0029
+compensation_no compensation;0.0101;0.0018
+rel_7;0.0100;0.0035
+country_Spain;0.0093;0.0020
+country_UK;0.0087;0.0018
+denomination_nan;0.0087;0.0021
+country_China;0.0079;0.0019
+country_Romania;0.0075;0.0017
+compensation_monetary reward;0.0073;0.0022
+country_Brazil;0.0071;0.0018
+country_Croatia;0.0071;0.0011
+denomination_Christian (Roman Catholic);0.0070;0.0018
+compensation_course credit;0.0060;0.0015
+rel_5;0.0058;0.0032
+country_India;0.0058;0.0015
+ethnicity_Chinese;0.0044;0.0014
+ethnicity_Latin-American;0.0042;0.0017
+country_Australia;0.0042;0.0011
+country_Belgium;0.0042;0.0011
+country_Lithuania;0.0039;0.0009
+country_Netherlands;0.0039;0.0015
+ethnicity_I would rather not say;0.0037;0.0012
+ethnicity_Mixed / other;0.0036;0.0019
+ethnicity_South Asian;0.0036;0.0010
+country_Turkey;0.0035;0.0010
+denomination_Christian (Protestant);0.0035;0.0020
+country_Denmark;0.0035;0.0013
+denomination_Buddhist;0.0034;0.0012
+denomination_Muslim (Sunni);0.0034;0.0016
+country_France;0.0026;0.0015
+country_Ireland;0.0024;0.0010
+country_US;0.0023;0.0011
+ethnicity_East Asian;0.0022;0.0013
+denomination_Hindu;0.0022;0.0013
+country_Italy;0.0021;0.0018
+denomination_Evangelical;0.0020;0.0007
+denomination_Christian (Orthodox - Russian/Greek/etc.);0.0017;0.0012
+compensation_no compensation + course credit;0.0017;0.0011
+country_Singapore;0.0017;0.0010
+country_Canada;0.0017;0.0012
+denomination_Muslim;0.0012;0.0013
+country_Japan;0.0011;0.0011
+denomination_Other:;0.0010;0.0009
+ethnicity_Middle-Eastern/Arab;0.0009;0.0017
+country_Morocco;0.0009;0.0009
+ethnicity_Turkish;0.0007;0.0011
+denomination_Spiritist;0.0006;0.0005
+denomination_Druze;0.0005;0.0003
+denomination_African religions;0.0004;0.0003
+denomination_Muslim (non-sectarian);0.0003;0.0005
+sample_type_general public;0.0003;0.0008
+denomination_Taoist;0.0002;0.0002
+ethnicity_African;0.0002;0.0007
+denomination_Jewish;0.0002;0.0006
+ethnicity_Indigenous;0.0001;0.0005
+denomination_Muslim (Azhari);0.0001;0.0002
+ethnicity_Indian;0.0001;0.0004
+denomination_Jain;0.0001;0.0001
+ethnicity_Kurdish;0.0001;0.0003
+denomination_Christian;0.0000;0.0003
+ethnicity_Malay;0.0000;0.0000
+denomination_Muslim (Alevi);0.0000;0.0000
+denomination_Shinto;0.0000;0.0000
+ethnicity_Armenian;0.0000;0.0000
+gender_other;-0.0000;0.0008
+country_Chile;-0.0003;0.0009
+ethnicity_Pacific Islander;-0.0004;0.0005
+ethnicity_Asian;-0.0007;0.0006

@@ -1,0 +1,95 @@
+Feature;Importance;Importance_std
+ses;0.0357;0.0021
+age;0.0031;0.0004
+country_Japan;0.0030;0.0005
+education;0.0029;0.0005
+ethnicity_East Asian;0.0025;0.0004
+rel_1;0.0025;0.0006
+gdp_scaled;0.0019;0.0004
+gdp;0.0018;0.0004
+rel_6;0.0018;0.0004
+rel_8;0.0017;0.0003
+compensation_raffle;0.0015;0.0005
+rel_5;0.0013;0.0003
+sample_type_online panel;0.0011;0.0003
+rel_9;0.0010;0.0003
+compensation_monetary reward;0.0009;0.0003
+ethnicity_Caucasian/European;0.0008;0.0002
+rel_2;0.0008;0.0002
+rel_7;0.0007;0.0003
+cnorm_1;0.0006;0.0002
+rel_3_1.0;0.0006;0.0002
+sample_type_mixed;0.0006;0.0002
+cnorm_2;0.0005;0.0002
+country_Israel;0.0005;0.0001
+country_Netherlands;0.0004;0.0001
+country_Italy;0.0004;0.0001
+denomination_nan;0.0004;0.0001
+rel_4_0;0.0003;0.0001
+ethnicity_Mixed / other;0.0003;0.0001
+country_Lithuania;0.0003;0.0000
+country_India;0.0003;0.0001
+rel_4_1;0.0003;0.0001
+country_Australia;0.0002;0.0001
+compensation_course credit;0.0002;0.0001
+ethnicity_South Asian;0.0002;0.0001
+gender_other;0.0002;0.0001
+rel_3_0.0;0.0002;0.0001
+compensation_no compensation + course credit;0.0002;0.0001
+gender_man;0.0002;0.0001
+sample_type_students;0.0002;0.0001
+compensation_no compensation;0.0002;0.0000
+country_Turkey;0.0002;0.0000
+denomination_Buddhist;0.0001;0.0001
+rel_3_0.5;0.0001;0.0001
+ethnicity_Latin-American;0.0001;0.0000
+ethnicity_nan;0.0001;0.0000
+ethnicity_I would rather not say;0.0001;0.0000
+denomination_Muslim (Sunni);0.0001;0.0000
+country_Singapore;0.0001;0.0001
+country_Brazil;0.0001;0.0001
+denomination_Muslim;0.0001;0.0000
+country_UK;0.0001;0.0000
+country_US;0.0001;0.0000
+ethnicity_Middle-Eastern/Arab;0.0001;0.0001
+country_Ireland;0.0001;0.0000
+ethnicity_Turkish;0.0000;0.0000
+denomination_Christian (Roman Catholic);0.0000;0.0001
+country_Germany;0.0000;0.0001
+denomination_Hindu;0.0000;0.0000
+denomination_Other:;0.0000;0.0000
+country_Spain;0.0000;0.0000
+country_Canada;0.0000;0.0000
+country_France;0.0000;0.0000
+sample_type_general public;0.0000;0.0000
+country_Romania;0.0000;0.0000
+ethnicity_African;0.0000;0.0000
+country_Croatia;0.0000;0.0000
+ethnicity_Indigenous;0.0000;0.0000
+denomination_Jewish;0.0000;0.0000
+country_Denmark;0.0000;0.0000
+denomination_Druze;0.0000;0.0000
+ethnicity_Asian;0.0000;0.0000
+denomination_African religions;0.0000;0.0000
+country_Morocco;0.0000;0.0001
+denomination_Taoist;0.0000;0.0000
+denomination_Muslim (Alevi);0.0000;0.0000
+ethnicity_Pacific Islander;0.0000;0.0000
+ethnicity_Malay;0.0000;0.0000
+denomination_Shinto;0.0000;0.0000
+ethnicity_Armenian;0.0000;0.0000
+denomination_Muslim (Azhari);0.0000;0.0000
+denomination_Jain;0.0000;0.0000
+denomination_Christian;-0.0000;0.0000
+denomination_Christian (Protestant);-0.0000;0.0000
+ethnicity_Kurdish;-0.0000;0.0000
+country_China;-0.0000;0.0000
+country_Belgium;-0.0000;0.0000
+country_Chile;-0.0000;0.0000
+denomination_Spiritist;-0.0000;0.0000
+denomination_Christian (Orthodox - Russian/Greek/etc.);-0.0000;0.0000
+denomination_Evangelical;-0.0000;0.0000
+gender_woman;-0.0000;0.0002
+ethnicity_Chinese;-0.0000;0.0000
+denomination_Muslim (non-sectarian);-0.0000;0.0000
+ethnicity_Indian;-0.0000;0.0000
